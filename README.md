@@ -1,2 +1,2 @@
 # ContentManagementSystem
-Content Management System using PHP
+Content Management System (PHP)
